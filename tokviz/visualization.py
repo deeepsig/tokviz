@@ -2,7 +2,7 @@
 from IPython.display import HTML, display
 from transformers import AutoTokenizer
 
-def token_visualizer(text, models=['gpt-2']):
+def token_visualizer(text, models=['openai-community/gpt2']):
     """
     Compares tokenization patterns across different language models and visualizes the results.
 

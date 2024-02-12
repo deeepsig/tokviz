@@ -1,0 +1,25 @@
+[build-system]
+requires = [
+    "setuptools",
+    "transformers",
+    "IPython"]
+
+build-backend = "setuptools.build_meta"
+
+[project]
+name="tokviz"
+version="0.1"
+authors = [
+    { name="Deepak Gupta", email="deepak.gupta.h401@gmail.com" },
+]
+description = "Library for visualizing tokenization patterns across different language models"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Mr-DG-Wick/tokviz"
