@@ -1,0 +1,3 @@
+# Ignore build and distribution files
+dist/
+tokviz.egg-info/
