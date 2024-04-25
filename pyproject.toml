@@ -22,4 +22,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Mr-DG-Wick/tokviz"
+Homepage = "https://github.com/deeepsig/tokviz"

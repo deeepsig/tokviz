@@ -12,5 +12,5 @@ setup(
     author='Deepak Gupta',
     author_email='deepak.gupta.h401@gmail.com',
     description='Library for visualizing tokenization patterns across different language models',
-    url='https://github.com/Mr-DG-Wick/tokviz',
+    url='https://github.com/deeepsig/tokviz',
 )
